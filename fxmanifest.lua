@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 author 'dhanione'
-description 'Dhani Admin Menu'
+description 'Dhani Flappy Bird Minigame'
 version '1.0.0'
 lua54 'yes'
 shared_scripts {
