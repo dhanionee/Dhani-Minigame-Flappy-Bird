@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const canvas = document.getElementById("gameCanvas");
     const ctx = canvas.getContext("2d");
 
-    let Config = {}; // Akan diisi dari Lua
+    let Config = {};
     let player;
     let hasStarted = false;
     let gameRunning = false;
